@@ -3,16 +3,16 @@ permalink: /research/
 title: "Research"
 ---
 
+### Publications
 ---
 
-### Publications
-
 - **Mixing Samples to Address Weak Overlap in Observational Studies** <br>
-    Jaehyuk Jang, **Suehyun Kim**, Kwonsang Lee. *Submitted.* <br>
+    Jaehyuk Jang, <u>Suehyun Kim</u>, Kwonsang Lee. *Submitted.* <br>
     [\[arXiv\]](https://arxiv.org/abs/2411.10801v3)
 
 
 ### Talks
+---
 
 - **Mixing Samples to Address Weak Overlap in Observational Studies** [[slides]](/assets/attachments/slides_overlap.pdf)
     - *European Causal Inference Meeting (EuroCIM)*, Ghent, Belgium, April 2025. Oral presentation.
