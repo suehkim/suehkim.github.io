@@ -3,11 +3,13 @@ permalink: /research/
 title: "Research"
 ---
 
+---
+
 ### Publications
 
 - **Mixing Samples to Address Weak Overlap in Observational Studies** <br>
     Jaehyuk Jang, **Suehyun Kim**, Kwonsang Lee. *Submitted.* <br>
-    [[arXiv]](https://arxiv.org/abs/2411.10801v3)
+    [\[arXiv\]](https://arxiv.org/abs/2411.10801v3)
 
 
 ### Talks
