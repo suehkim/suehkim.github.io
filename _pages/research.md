@@ -14,7 +14,7 @@ title: "Research"
 
 ### Talks
 
-- **Mixing Samples to Address Weak Overlap in Observational Studies** [[slides]](./attachments/slides_overlap.pdf)
+- **Mixing Samples to Address Weak Overlap in Observational Studies** [[slides]](/assets/attachments/slides_overlap.pdf)
     - *European Causal Inference Meeting (EuroCIM)*, Ghent, Belgium, April 2025. Oral presentation.
     - *American Causal Inference Conference (ACIC)*, Detroit, Michigan, May 2025. Oral presentation.
     - *Korean Statistical Society Summer Conference*, Gyeongju, Korea, June 2025. Oral presentation.
