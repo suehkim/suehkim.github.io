@@ -1,6 +1,6 @@
 ---
+title: About
 permalink: /
-title: "About"
 ---
 
-Hi, this is Suehyun.
+Welcome to my website! This is the About page content.
