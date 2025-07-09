@@ -123,6 +123,7 @@ defaults:
       comments: false
       share: false
       related: false
+      show_date: false
 
   - scope:
       path: "_pages"
@@ -130,6 +131,11 @@ defaults:
     values:
       layout: single
       author_profile: true
+      read_time: false
+      comments: false
+      share: false
+      related: false
+      show_date: false
 
 # category_archive:
 #   type: liquid
