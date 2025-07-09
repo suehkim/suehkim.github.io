@@ -2,6 +2,7 @@
 permalink: /cv/
 title: "CV"
 fontsize: 10pt
+show_date: false
 ---
 
 For my comprehensive CV, click [here](/assets/attachments/CV_kim.pdf).

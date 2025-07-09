@@ -2,6 +2,7 @@
 permalink: /research/
 title: "Research"
 fontsize: 10pt
+show_date: false
 ---
 
 ### Publications
