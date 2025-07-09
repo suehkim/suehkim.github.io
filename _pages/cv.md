@@ -18,7 +18,7 @@ For my comprehensive CV, click [here](/assets/attachments/CV_kim.pdf).
 
 - **Alumni Association President's Award**, Seoul National University, August 2024.
 - **Kwanjeong Scholarship**, Kwanjeong Educational Foundation, 2021-2023.
-- **GLEAP (Official Honor Society of College of Natural Sciences at SNU)**, 2020-2021. [\[website\]](https://snucnsgleap.wixsite.com/)
+- **[GLEAP](https://snucnsgleap.wixsite.com/) (Official Honor Society of SNU College of Natural Sciences)**, 2020-2021.
 - **Merit-Based Scholarship**, Seoul National University, 2019-2020.
 - **Dean's List**, SNU College of Natural Sciences, 2019-2024.
 
@@ -27,7 +27,7 @@ For my comprehensive CV, click [here](/assets/attachments/CV_kim.pdf).
 
 ### Teaching
 ---
-Teaching Experience at Seoul National University
+Teaching experience at Seoul National University
 
 - Fall 2024: **Data Analysis and Lab. (M1399.001400)**, Teaching Assistant.
 - Spring 2024: **Statistics (F32.102)**, Peer Tutor.

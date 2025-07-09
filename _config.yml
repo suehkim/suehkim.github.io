@@ -16,20 +16,18 @@
 title: Suehyun Kim
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Suehyun Kim's website.
 # twitter_username: username
 github_username: suehkim
 minimal_mistakes_skin: default
-search: false
+search: true
 
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 0 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
@@ -88,8 +86,33 @@ author:
 #       icon: "fab fa-fw fa-instagram"
 #       url: "https://instagram.com/"
 
+# defaults:
+#   # _posts
+#   - scope:
+#       path: ""
+#       type: posts
+#     values:
+#       layout: single
+#       author_profile: true
+#       read_time: true
+#       comments: true
+#       share: true
+#       related: true
+#   # _pages
+#   - scope:
+#       path: "_pages"
+#       type: pages
+#     values:
+#       layout: single
+#       author_profile: true
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+# Set the default index page (your custom About page)
 defaults:
-  # _posts
   - scope:
       path: ""
       type: posts
@@ -100,7 +123,7 @@ defaults:
       comments: true
       share: true
       related: true
-  # _pages
+
   - scope:
       path: "_pages"
       type: pages
