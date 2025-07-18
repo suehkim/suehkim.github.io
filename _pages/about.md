@@ -1,9 +1,9 @@
 ---
-layout: single
+# layout: single
 title: ""
 permalink: /
 fontsize: 10pt
-# date: "2025-07-10"
+date: "2025-07-10"
 ---
 
 Hi, I’m **Suehyun Kim (김수현)**.
