@@ -5,7 +5,7 @@ permalink: /misc/
 fontsize: 10pt
 ---
 
-<div style="margin-top: -1.3cm;"></div>
+<!-- <div style="margin-top: -1.3cm;"></div>
 
 ### Selected Projects
 ---
@@ -17,4 +17,4 @@ fontsize: 10pt
 ### Coursework
 ---
 
-A list of my past coursework can be found [here](/misc/coursework/).
+A list of my past coursework can be found [here](/misc/coursework/). -->
