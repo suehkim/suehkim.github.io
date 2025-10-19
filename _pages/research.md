@@ -5,6 +5,9 @@ title: "Research"
 fontsize: 10pt
 ---
 
+<p style="color: gray;">*: Equally contributing co-authors</p>
+<div style="margin-top: -0.7cm;"></div>
+
 ## Publications
 
 - **Mixing Samples to Address Weak Overlap in Observational Studies** <br>
@@ -22,5 +25,5 @@ fontsize: 10pt
 
 ## On-Going Works
 
-- **Causal Impact of OTT Service on IPTV Viewing: Time-Series Cross-Sectional Data Matching** <br>
+- **Reverse-Time Nested Matching for Causal Inference in Panel Data: Evaluating the Impact of OTT Services on IPTV Viewing** <br>
     Dahai Jung\*, <u>Suehyun Kim</u>\*, Kwonsang Lee. *In progress.* 
