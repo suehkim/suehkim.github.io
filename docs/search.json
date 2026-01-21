@@ -1,0 +1,303 @@
+[
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Projects",
+    "section": "",
+    "text": "A design-based matching framework for staggered adoption with time-varying confounding\n\n\n\ncausal inference\n\ntime series\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMixing samples to address weak overlap in causal inference\n\n\n\ncausal inference\n\nrobustness\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications / Talks",
+    "section": "",
+    "text": "*: Equally contributing co-authors\n\n\nMixing Samples to Address Weak Overlap in Observational Studies\nJaehyuk Jang*, Suehyun Kim*, Kwonsang Lee. Submitted.\n[arXiv]\n\n\n\n\nNonparametric Inference in the Age of AI (Workshop), Department of Statistics, Seoul National University, Feb 2025.\nEuropean Causal Inference Meeting (EuroCIM), Ghent, Belgium, April 2025. Oral presentation.\nAmerican Causal Inference Conference (ACIC), Detroit, Michigan, May 2025. Oral presentation. [slides]\nKorean Statistical Society Summer Conference, Gyeongju, Korea, June 2025. [slides]\n\n\n\n\n\n\nA Design-Based Matching Framework for Staggered Adoption with Time-Varying Confounding\nSuehyun Kim and Kwonsang Lee. Preprint.\n\n\n\n\nKorean Statistical Society Winter Conference, Seoul, Korea, December 2025. Poster presentation."
+  },
+  {
+    "objectID": "publications.html#selected-work",
+    "href": "publications.html#selected-work",
+    "title": "Publications",
+    "section": "Selected Work",
+    "text": "Selected Work\nEinstein, A., Podolsky, B., & Rosen, N. (1935). Can quantum-mechanical description of physical reality be considered complete?. Physical review, 47(10), 777. [pdf] [code and data]   \n\n\n\n\n\n\nEinstein, A. (1965). Concerning an heuristic point of view toward the emission and transformation of light. American Journal of Physics, 33(5), 367. [pdf]"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Order By\n      Default\n      \n      \n      \n        Title\n      \n      \n        Team\n      \n      \n        Funder\n      \n      \n        Description\n      \n      \n        Start\n      \n      \n        End\n      \n      \n        Funding\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nTitle\n\n\n\nTeam\n\n\n\nFunder\n\n\n\nDescription\n\n\n\nFunding\n\n\n\nStart\n\n\n\nEnd\n\n\n\n\n\n\n\n\n\n\n\nExploring \n\n\nAcademic Website\n\n\nFunder\n\n\nThe goal of this project is to investigate .\n\n\n$0\n\n\n2024\n\n\n2025\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/news-title/index.html",
+    "href": "posts/news-title/index.html",
+    "title": "News item",
+    "section": "",
+    "text": "About the news"
+  },
+  {
+    "objectID": "posts/news-title/index.html#summary",
+    "href": "posts/news-title/index.html#summary",
+    "title": "News item",
+    "section": "",
+    "text": "About the news"
+  },
+  {
+    "objectID": "posts/paper-title/index.html#abstract",
+    "href": "posts/paper-title/index.html#abstract",
+    "title": "A design-based matching framework for staggered adoption with time-varying confounding",
+    "section": "",
+    "text": "In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete."
+  },
+  {
+    "objectID": "posts/paper-title/index.html#links",
+    "href": "posts/paper-title/index.html#links",
+    "title": "A design-based matching framework for staggered adoption with time-varying confounding",
+    "section": "Links",
+    "text": "Links\nPublished paper"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Fall 2024,   Fall 2023\nClass 1 introduction."
+  },
+  {
+    "objectID": "teaching.html#class-1",
+    "href": "teaching.html#class-1",
+    "title": "Teaching",
+    "section": "",
+    "text": "Fall 2024,   Fall 2023\nClass 1 introduction."
+  },
+  {
+    "objectID": "teaching.html#class-2",
+    "href": "teaching.html#class-2",
+    "title": "Teaching",
+    "section": "Class 2",
+    "text": "Class 2\n\n\n\n\n\nSpring 2025,   Fall 2023\nClass 2 introduction."
+  },
+  {
+    "objectID": "teaching.html#class-3",
+    "href": "teaching.html#class-3",
+    "title": "Teaching",
+    "section": "Class 3",
+    "text": "Class 3\n\n\n\n\n\nSpring 2025,   Spring 2024\nClass 3 introduction."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Quarto Academic\nSchool\nCollege\nUniversity\nAddress:\nPhone:\nE-mail:"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Suehyun Kim",
+    "section": "",
+    "text": "Hi, I’m Suehyun Kim (김수현).\nI am a master’s student in Statistics at Seoul National University, working under the supervision of Professor Kwonsang Lee. My current research focuses on causal inference, exploring both its theoretical aspects and practical applications. My specific interests encompass, but are not limited to, the following topics:\n\nRobust estimation of causal effects.\nCausal inference in complex datasets: non-iid, non-Euclidean, high dimensional.\nGeneralizability and transportability.\n\nMore broadly, I am interested in topics that are meaningful in their own right or can be integrated with causal approaches, including:\n\nGeneralizability of statistical algorithms, inference under distributional shifts, transfer learning, meta-learning.\nOptimal transport theory and its applications.\n\nI completed my undergraduate studies in Mathematical Sciences and Statistics at Seoul National University, where I developed a strong foundation in mathematical theory and gained early research experience.\nIf you have any questions or opportunities for collaboration, please don’t hesitate to reach out: suehyunkim@snu.ac.kr"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Suehyun Kim",
+    "section": "",
+    "text": "Researcher, Univerisity"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Suehyun Kim",
+    "section": "",
+    "text": "PhD, Univerisity"
+  },
+  {
+    "objectID": "index.html#recent-posts",
+    "href": "index.html#recent-posts",
+    "title": "Quarto Academic, PhD",
+    "section": "Recent Posts",
+    "text": "Recent Posts\nCheck out the latest  Papers ,  News ,  Events , and  More »\n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\nOct 15, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\nSep 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\nJun 24, 2024\n\n\n\n\n\n\nNo matching items\n\n\nAll Posts »"
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "People",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "people.html#team",
+    "href": "people.html#team",
+    "title": "People",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "people.html#alumni",
+    "href": "people.html#alumni",
+    "title": "People",
+    "section": "Alumni",
+    "text": "Alumni\n\n\n    \n      \n      \n    \n\n\n\n\n\nName\nRole\nStarted\nEnded\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "pages/cv.html",
+    "href": "pages/cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "For my comprehensive CV, click here."
+  },
+  {
+    "objectID": "pages/cv.html#education",
+    "href": "pages/cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\n\nM.S. in Statistics\nSeoul National University\n2024 – Present\nB.S. in Mathematical Sciences and Statistics\nSeoul National University\n2019 – 2024, Summa Cum Laude"
+  },
+  {
+    "objectID": "pages/cv.html#awards-and-honors",
+    "href": "pages/cv.html#awards-and-honors",
+    "title": "Curriculum Vitae",
+    "section": "Awards and Honors",
+    "text": "Awards and Honors\n\nAlumni Association President’s Award (서울대학교 총동창회장상), Seoul National University, August 2024\nKwanjeong Scholarship, Kwanjeong Educational Foundation, 2021–2023\nGLEAP (Official Honor Society of SNU College of Natural Sciences), 2020–2021\nMerit-Based Scholarship, Seoul National University, 2019–2020\nDean’s List, SNU College of Natural Sciences, 2019–2024"
+  },
+  {
+    "objectID": "pages/cv.html#teaching",
+    "href": "pages/cv.html#teaching",
+    "title": "Curriculum Vitae",
+    "section": "Teaching",
+    "text": "Teaching\nTeaching experience at Seoul National University:\n\nWinter 2024: Freshman Pre-College Course in Statistics, Teaching Assistant\nFall 2024: Data Analysis and Lab (M1399.001400), Teaching Assistant\nSpring 2024: Statistics (F32.102), Peer Tutor"
+  },
+  {
+    "objectID": "pages/about.html",
+    "href": "pages/about.html",
+    "title": "Suehyun Kim",
+    "section": "",
+    "text": "Hi, I’m Suehyun Kim (김수현).\nI am a master’s student in Statistics at Seoul National University, working under the supervision of Professor Kwonsang Lee. My current research focuses on causal inference, exploring both its theoretical aspects and practical applications. My specific interests encompass, but are not limited to, the following topics:\n\nRobust estimation of causal effects.\nCausal inference in complex datasets: non-iid, non-Euclidean, high dimensional.\nGeneralizability and transportability.\n\nMore broadly, I am interested in topics that are meaningful in their own right or can be integrated with causal approaches, including:\n\nGeneralizability of statistical algorithms, inference under distributional shifts, transfer learning, meta-learning.\nOptimal transport theory and its applications.\n\nI completed my undergraduate studies in Mathematical Sciences and Statistics at Seoul National University, where I developed a strong foundation in mathematical theory and gained early research experience.\nIf you have any questions or opportunities for collaboration, please don’t hesitate to reach out: suehyunkim@snu.ac.kr"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Suehyun Kim",
+    "section": "",
+    "text": "Hi, I’m Suehyun Kim (김수현).\nI am a master’s student in Statistics at Seoul National University, working under the supervision of Professor Kwonsang Lee. My current research focuses on causal inference, exploring both its theoretical aspects and practical applications. My specific interests encompass, but are not limited to, the following topics:\n\nRobust estimation of causal effects.\nCausal inference in complex datasets: non-iid, non-Euclidean, high dimensional.\nGeneralizability and transportability.\n\nMore broadly, I am interested in topics that are meaningful in their own right or can be integrated with causal approaches, including:\n\nGeneralizability of statistical algorithms, inference under distributional shifts, transfer learning, meta-learning.\nOptimal transport theory and its applications.\n\nI completed my undergraduate studies in Mathematical Sciences and Statistics at Seoul National University, where I developed a strong foundation in mathematical theory and gained early research experience.\nIf you have any questions or opportunities for collaboration, please don’t hesitate to reach out: suehyunkim@snu.ac.kr"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "For my comprehensive CV, click here."
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\n\n\nM.S. in Statistics\nSeoul National University\n2024 – Present\nB.S. in Mathematical Sciences and Statistics\nSeoul National University\n2019 – 2024, Summa Cum Laude"
+  },
+  {
+    "objectID": "cv.html#awards-and-honors",
+    "href": "cv.html#awards-and-honors",
+    "title": "Curriculum Vitae",
+    "section": "Awards and Honors",
+    "text": "Awards and Honors\n\nAlumni Association President’s Award (서울대학교 총동창회장상), Seoul National University, August 2024\nKwanjeong Scholarship, Kwanjeong Educational Foundation, 2021–2023\nGLEAP (Official Honor Society of SNU College of Natural Sciences), 2020–2021\nMerit-Based Scholarship, Seoul National University, 2019–2020\nDean’s List, SNU College of Natural Sciences, 2019–2024"
+  },
+  {
+    "objectID": "cv.html#teaching",
+    "href": "cv.html#teaching",
+    "title": "Curriculum Vitae",
+    "section": "Teaching",
+    "text": "Teaching\nTeaching experience at Seoul National University\n\nWinter 2024: Freshman Pre-College Course in Statistics, Teaching Assistant\nFall 2024: Data Analysis and Lab (M1399.001400), Teaching Assistant\nSpring 2024: Statistics (F32.102), Peer Tutor"
+  },
+  {
+    "objectID": "misc.html",
+    "href": "misc.html",
+    "title": "Miscellaneous",
+    "section": "",
+    "text": "A list of my past coursework can be found here."
+  },
+  {
+    "objectID": "misc.html#coursework",
+    "href": "misc.html#coursework",
+    "title": "Miscellaneous",
+    "section": "",
+    "text": "A list of my past coursework can be found here."
+  },
+  {
+    "objectID": "misc.html#selected-projects",
+    "href": "misc.html#selected-projects",
+    "title": "Miscellaneous",
+    "section": "Selected Projects",
+    "text": "Selected Projects\n\nUnderstanding Young Stellar Cluster Formation in the Triangulum Galaxy (M33) through Point Process Models [paper]\nFinal project for Spatial Statistics (M1399.000300, Fall 2024)\nApplication of Functional Clustering Methods to Climate Data [slides]\nIndividual project during undergraduate research internship at the Data Science & Machine Learning Lab (Summer 2023)"
+  },
+  {
+    "objectID": "misc.html#paper-reviews",
+    "href": "misc.html#paper-reviews",
+    "title": "Miscellaneous",
+    "section": "Paper Reviews",
+    "text": "Paper Reviews\nPaper and book chapter reviews from the regular seminar of the Causal Inference Lab.\n\nCausal inference on distribution functions\nLin, Z., Kong, D., & Wang, L. (2023). JRSSB\npaper review slides · original paper\nTransfer learning between U.S. presidential elections: How should we learn from a 2020 ad campaign to inform 2024 ad campaigns?\nMiao, X., Zhao, J., & Kang, H. (2024). arXiv preprint\npaper review slides · original paper\nCovariate-adaptive randomization inference in matched designs\nPimentel, S. D., & Huang, Y. (2024). JRSSB\npaper review slides · original paper\nFinding influential subjects in a network using a causal framework\nLee, Y., Buchanan, A. L., Ogburn, E. L., Friedman, S. R., Halloran, M. E., Katenka, N. V., Wu, J., & Nikolopoulos, G. K. (2023). Biometrics\npaper review slides · original paper\nHigh-dimensional statistics: A non-asymptotic viewpoint\nWainwright, M. J. (2019).\nbook review slides · original book"
+  },
+  {
+    "objectID": "misc/coursework.html",
+    "href": "misc/coursework.html",
+    "title": "Selected coursework",
+    "section": "",
+    "text": "Analysis I\nMathematical Algorithms II (Topics in Optimization)\n\n\n\n\n\nMathematical Analysis I, II\nLinear Algebra I, II\nAbstract Algebra I, II\nTopology I\nComplex Analysis I\nFinancial Mathematics I\nRandom Processes\nDiscrete Mathematics\nSets and Mathematical Logic\nCryptography\n\n\n\n\n\n\n\n\nProbability Theory I, II\nTheory of Statistics I\nApplied Statistics\nCausal Inference\nTheory of Deep Learning: Statistical Perspective\nSpatial Statistics\n\n\n\n\n\nMathematical Statistics I, II\nRegression Analysis\nConcepts and Applications in Probability\nStatistical Computing\nMultivariate Data Analysis\nBayesian Statistics\nNonparametric Statistics\nTime Series Analysis\nData Mining Methods"
+  },
+  {
+    "objectID": "misc/coursework.html#mathematics",
+    "href": "misc/coursework.html#mathematics",
+    "title": "Selected coursework",
+    "section": "",
+    "text": "Analysis I\nMathematical Algorithms II (Topics in Optimization)\n\n\n\n\n\nMathematical Analysis I, II\nLinear Algebra I, II\nAbstract Algebra I, II\nTopology I\nComplex Analysis I\nFinancial Mathematics I\nRandom Processes\nDiscrete Mathematics\nSets and Mathematical Logic\nCryptography"
+  },
+  {
+    "objectID": "misc/coursework.html#statistics",
+    "href": "misc/coursework.html#statistics",
+    "title": "Selected coursework",
+    "section": "",
+    "text": "Probability Theory I, II\nTheory of Statistics I\nApplied Statistics\nCausal Inference\nTheory of Deep Learning: Statistical Perspective\nSpatial Statistics\n\n\n\n\n\nMathematical Statistics I, II\nRegression Analysis\nConcepts and Applications in Probability\nStatistical Computing\nMultivariate Data Analysis\nBayesian Statistics\nNonparametric Statistics\nTime Series Analysis\nData Mining Methods"
+  },
+  {
+    "objectID": "publications.html#papers",
+    "href": "publications.html#papers",
+    "title": "Publications / Talks",
+    "section": "Papers",
+    "text": "Papers\n\nMixing Samples to Address Weak Overlap in Observational Studies\nJaehyuk Jang*, Suehyun Kim*, Kwonsang Lee. Submitted.\n[arXiv]\n\n\nEuropean Causal Inference Meeting (EuroCIM), Ghent, Belgium, April 2025. Oral presentation.\nAmerican Causal Inference Conference (ACIC), Detroit, Michigan, May 2025. Oral presentation. [slides]\nKorean Statistical Society Summer Conference, Gyeongju, Korea, June 2025. Oral presentation. [slides]\n\n\nA Design-Based Matching Framework for Staggered Adoption with Time-Varying Confounding\nSuehyun Kim and Kwonsang Lee. Preprint.\n\n\nKorean Statistical Society Winter Conference, Seoul, Korea, December 2025. Poster presentation."
+  },
+  {
+    "objectID": "posts/paper-title/index.html",
+    "href": "posts/paper-title/index.html",
+    "title": "A design-based matching framework for staggered adoption with time-varying confounding",
+    "section": "",
+    "text": "In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete."
+  },
+  {
+    "objectID": "posts/rtnm/rtnm.html",
+    "href": "posts/rtnm/rtnm.html",
+    "title": "A design-based matching framework for staggered adoption with time-varying confounding",
+    "section": "",
+    "text": "In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete."
+  },
+  {
+    "objectID": "posts/rtnm/rtnm.html#abstract",
+    "href": "posts/rtnm/rtnm.html#abstract",
+    "title": "A design-based matching framework for staggered adoption with time-varying confounding",
+    "section": "",
+    "text": "In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete."
+  },
+  {
+    "objectID": "posts/overlap/overlap.html",
+    "href": "posts/overlap/overlap.html",
+    "title": "Mixing samples to address weak overlap in causal inference",
+    "section": "",
+    "text": "In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete."
+  },
+  {
+    "objectID": "posts/overlap/overlap.html#abstract",
+    "href": "posts/overlap/overlap.html#abstract",
+    "title": "Mixing samples to address weak overlap in causal inference",
+    "section": "",
+    "text": "In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete."
+  }
+]

@@ -1,0 +1,29 @@
+---
+title: "Projects"
+# subtitle: "Selected research projects"
+
+listing: 
+  type: default
+  page-size: 5
+  categories: false
+  sort-ui: false
+  filter-ui: true
+  image-align: left
+  # image-height: 9em
+  contents: 
+      - posts
+      # - posts/post-links.yml  # Use this file to add external links
+  fields: [title, categories, image]
+
+# format: 
+#   html: 
+#     page-layout: full
+title-block-banner: false
+draft-mode: unlinked
+page-navigation: false
+
+header-includes: >
+  <link rel="stylesheet" href="assets/my-listings.css">
+resources:
+  - assets/my-listings.css
+---

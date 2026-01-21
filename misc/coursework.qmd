@@ -1,0 +1,48 @@
+---
+page-layout: article
+---
+
+# Selected coursework
+
+## Mathematics
+
+### Graduate level
+
+- Analysis I
+- Mathematical Algorithms II (Topics in Optimization)
+
+### Undergraduate level
+
+- Mathematical Analysis I, II
+- Linear Algebra I, II
+- Abstract Algebra I, II
+- Topology I
+- Complex Analysis I
+- Financial Mathematics I
+- Random Processes
+- Discrete Mathematics
+- Sets and Mathematical Logic
+- Cryptography
+
+## Statistics
+
+### Graduate level
+
+- Probability Theory I, II
+- Theory of Statistics I
+- Applied Statistics
+- Causal Inference
+- Theory of Deep Learning: Statistical Perspective
+- Spatial Statistics
+
+### Undergraduate level
+
+- Mathematical Statistics I, II
+- Regression Analysis
+- Concepts and Applications in Probability
+- Statistical Computing
+- Multivariate Data Analysis
+- Bayesian Statistics
+- Nonparametric Statistics
+- Time Series Analysis
+- Data Mining Methods

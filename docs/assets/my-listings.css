@@ -1,0 +1,49 @@
+/* Custom styles for my listings page */
+
+.description a {
+  text-decoration: underline !important;
+}
+
+.description a:hover {
+  text-decoration: none !important;
+}
+
+/* listing cards  */
+.card {
+  background: transparent;
+  border: none;
+  border-radius: 4px;
+  box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.1);
+}
+
+.card-img {
+    border-radius: 8px 8px 0px 0px;
+}
+
+/* Quarto listing layout spacing polish */
+/* Space between category tags and title */
+.listing-categories {
+  margin-top: 0.6rem;
+  margin-bottom: 0.6rem;
+}
+
+/* image should not behave like inline content */
+.quarto-listing .listing-image img {
+  display: block;
+  margin-bottom: 1.25rem;
+}
+
+/* ensure room before the divider for each item */
+.quarto-listing .quarto-listing-item {
+  padding-bottom: 1.25rem;
+}
+
+/* avoid overly tight dividers (and prevent double spacing) */
+.quarto-listing hr {
+  margin: 0.75rem 0 !important;
+}
+
+/* align image to top when layout uses flex */
+.quarto-listing .listing-image {
+  align-self: flex-start;
+}

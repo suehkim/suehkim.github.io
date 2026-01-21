@@ -1,0 +1,46 @@
+---
+title: Miscellaneous
+page-layout: article
+---
+
+## Coursework
+
+A list of my past coursework can be found [here](misc/coursework.qmd).
+
+## Selected Projects
+
+1. **Understanding Young Stellar Cluster Formation in the Triangulum Galaxy (M33) through Point Process Models**    [[paper]](files/project_m33.pdf)  
+    *Final project for Spatial Statistics (M1399.000300, Fall 2024)*   
+
+2. **Application of Functional Clustering Methods to Climate Data** [[slides]](files/project_fc.pdf)    
+    *Individual project during undergraduate research internship at the Data Science & Machine Learning Lab (Summer 2023)*   
+
+## Paper Reviews
+
+Paper and book chapter reviews from the regular seminar of the Causal Inference Lab.
+
+- **Causal inference on distribution functions**    
+    Lin, Z., Kong, D., & Wang, L. (2023). *JRSSB*          
+  [paper review slides](files/paperreview_lin.pdf) ·
+  [original paper](https://doi.org/10.1093/jrsssb/qkad008)
+
+-   
+  **Transfer learning between U.S. presidential elections: How should we learn from a 2020 ad campaign to inform 2024 ad campaigns?**   
+  Miao, X., Zhao, J., & Kang, H. (2024). *arXiv preprint*   
+  [paper review slides](files/paperreview_miao.pdf) ·
+  [original paper](https://arxiv.org/abs/2411.01100)
+
+- **Covariate-adaptive randomization inference in matched designs**      
+  Pimentel, S. D., & Huang, Y. (2024). *JRSSB*  
+  [paper review slides](files/paperreview_pimentel.pdf) ·
+  [original paper](https://doi.org/10.1093/jrsssb/qkae033)
+
+- **Finding influential subjects in a network using a causal framework**       
+  Lee, Y., Buchanan, A. L., Ogburn, E. L., Friedman, S. R., Halloran, M. E., Katenka, N. V., Wu, J., & Nikolopoulos, G. K. (2023). *Biometrics*     
+  [paper review slides](files/paperreview_lee.pdf) ·
+  [original paper](https://doi.org/10.1111/biom.13841)
+
+- **High-dimensional statistics: A non-asymptotic viewpoint**   
+  Wainwright, M. J. (2019).     
+  [book review slides](files/bookreview_HDS.pdf) ·
+  [original book](https://doi.org/10.1017/9781108627771)

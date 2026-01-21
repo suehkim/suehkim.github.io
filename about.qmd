@@ -1,0 +1,67 @@
+---
+title: "Suehyun Kim"
+subtitle: "Master’s student in Statistics at Seoul National University"
+image: "files/images/bio-photo.jpeg"
+page-navigation: false
+toc: false
+#sidebar: false
+page-layout: full
+
+about:
+  id: hero-heading
+  template: trestles
+  image-width: 8em
+  image-shape: rounded
+  links:
+    - icon: flask
+      href: https://causal.snu.ac.kr
+    - icon: envelope
+      href: mailto:suehyunkim@snu.ac.kr    
+    - icon: mortarboard-fill
+      href: https://scholar.google.com/citations?hl=en&user=0OYTg4wAAAAJ
+    - icon: linkedin
+      href: https://linkedin.com/in/suehyun-kim
+
+header-includes: >
+  <link rel="stylesheet" href="assets/about.css">
+resources:
+  - assets/about.css  
+
+# listing:   # Comment the listing section and delete corresponding lines in the index.qmd file to remove the recent posts
+#   - id: recent-posts
+#     contents: 
+#       - posts
+#       - posts/post-links.yml
+#     exclude:
+#       title: ""
+#     type: grid
+#     max-items: 3
+# #    image-height: 150px
+#     page-size: 3 #set same as max-times to remove the page number setting
+#     fields: [image, date, title, subtitle]
+#     max-description-length: 75
+#     sort: 
+#       - "date desc"
+#       - "title asc"
+---
+
+:::{#hero-heading}
+
+Hi, I’m **Suehyun Kim (김수현)**.
+
+I am a master’s student in Statistics at [Seoul National University](https://en.snu.ac.kr/), working under the supervision of Professor [Kwonsang Lee](https://causal.snu.ac.kr/). My current research focuses on causal inference, exploring both its theoretical aspects and practical applications. My specific interests encompass, but are not limited to, the following topics:
+
+- Robust estimation of causal effects.
+- Causal inference in complex datasets: non-iid, non-Euclidean, high dimensional.
+- Generalizability and transportability.
+
+More broadly, I am interested in topics that are meaningful in their own right or can be integrated with causal approaches, including:
+
+- Generalizability of statistical algorithms, inference under distributional shifts, transfer learning, meta-learning.
+- Optimal transport theory and its applications.
+
+I completed my undergraduate studies in Mathematical Sciences and Statistics at Seoul National University, where I developed a strong foundation in mathematical theory and gained early research experience.
+
+If you have any questions or opportunities for collaboration, please don’t hesitate to reach out: [suehyunkim@snu.ac.kr](mailto:suehyunkim@snu.ac.kr)
+
+:::
