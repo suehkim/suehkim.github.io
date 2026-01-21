@@ -13,7 +13,7 @@ listing:
   contents: 
       - posts
       # - posts/post-links.yml  # Use this file to add external links
-  fields: [title, categories, image]
+  fields: [title, subtitle, categories, image]
 
 # format: 
 #   html: 
