@@ -9,7 +9,7 @@
 <meta name="author" content="Jaehyuk Jang">
 <meta name="author" content="Suehyun Kim (co-first author)">
 <meta name="author" content="Kwonsang Lee">
-<meta name="dcterms.date" content="2025-04-03">
+<meta name="dcterms.date" content="2025-01-05">
 
 <title>Mixing samples to address weak overlap in causal inference – Suehyun Kim</title>
 <style>
@@ -44,7 +44,9 @@ ul.task-list li input[type="checkbox"] {
 <link href="../../site_libs/quarto-html/quarto-syntax-highlighting-58e7cb164a30d0964bc3a4cf0cb5a652.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-ad6124f07e3e5d08227286a693cff453.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-b996682a2037f8884f00d243cc646697.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
+<link href="../../site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -80,6 +82,22 @@ function gtag(){dataLayer.push(arguments);}
 gtag('js', new Date());
 gtag('config', 'G-9P1EZF9E9B', { 'anonymize_ip': true});
 </script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+<style>
+div.callout-abstract.callout {
+  border-left-color: #BFC0C0;
+}
+div.callout-abstract.callout-style-default > .callout-header {
+  background-color: rgba(191, 192, 192, 0.13);
+}
+div.callout-abstract .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-abstract.callout-style-default .callout-icon::before, div.callout-abstract.callout-titled .callout-icon::before {
+  font-family: 'Font Awesome 6 Free', FontAwesome;
+  font-style: normal;
+  content: '\f15b' !important;
+  background-image: none;
+}
+</style>
 
 
 <meta property="og:title" content="Mixing samples to address weak overlap in causal inference">
@@ -175,7 +193,7 @@ gtag('config', 'G-9P1EZF9E9B', { 'anonymize_ip': true});
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">April 3, 2025</p>
+      <p class="date">January 5, 2025</p>
     </div>
   </div>
   
@@ -187,14 +205,30 @@ gtag('config', 'G-9P1EZF9E9B', { 'anonymize_ip': true});
 </header>
 
 
-<!--Include academic icons or bottons-->
-<!-- {{< include /files/includes/_academic.qmd >}} -->
-<section id="abstract" class="level2">
-<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<i class="fa-solid fa-file-lines" aria-label="file-lines"></i> <span style="margin-left:0.5em;"></span> <a href="https://arxiv.org/abs/2411.10801v3">arXiv</a>
+<div style="height:0.5rem;">
+
+</div>
+<p><i class="fa-solid fa-window-restore" aria-label="window-restore"></i> <span style="margin-left:0.3em;"></span><a href="../../files/ACIC_2025_mixing.pdf">slides (ACIC 2025)</a> <span style="margin-left:0.5em;"></span> <a href="../../files/KSS_2025_mixing.pdf">slides (KSS 2025)</a></p>
+<hr>
+<div class="callout callout-style-default callout-abstract callout-titled">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Abstract</span>Abstract
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
 <p>In observational studies, the assumption of sufficient overlap (positivity) is fundamental for the identification and estimation of causal effects. Failing to account for this assumption yields inaccurate and potentially infeasible estimators. To address this issue, we introduce a simple yet novel approach, Mixing, which mitigates overlap violations by constructing a synthetic treated group that combines treated and control units. Our strategy offers three key advantages. First, it improves estimator accuracy by preserving unbiasedness while reducing variance. The benefit is particularly significant in settings with weak overlap, though the method remains effective regardless of the overlap level. This phenomenon results from the shrinkage of propensity scores in the Mixed sample, which enhances robustness to poor overlap. Second, it enables direct estimation of the target estimand without discarding extreme observations or modifying the target population, thus facilitating straightforward interpretation of the results. Third, the mixing approach is highly adaptable to various weighting schemes, including contemporary methods such as Entropy Balancing. The Mixed propensity score is used to develop the Mixed IPW (MIPW) estimator via M-estimation, and the method extends to a broader class of weighting estimators through a resampling algorithm. We illustrate the mixing approach through extensive simulation studies and provide practical guidance with a real-data analysis.</p>
+</div>
+</div>
+</div>
 
 
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

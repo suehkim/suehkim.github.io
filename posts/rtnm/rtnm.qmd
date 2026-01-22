@@ -7,15 +7,29 @@ author:
 date: "2025-11-28"
 categories: [causal inference, time series]
 image: "design1.png"
+custom-callout:
+  abstract:
+    title: " Abstract"
+    icon: true
+    icon-symbol: "fa-file"
+    color: "#BFC0C0"
+    collapse: true
+filters:
+- custom-callout
 ---
 
-<!--Include academic icons or bottons-->
+{{< fa file-lines >}} <span style="margin-left:0.5em;"></span> [arXiv](https://arxiv.org/abs/2511.23208) 
+<div style="height:0.5rem;"></div>
+{{< fa window-restore >}} <span style="margin-left:0.3em;"></span>[poster (KSS 2025)](../../files/KSS_2025_rtnm.pdf)
 
-<!-- {{< include /files/includes/_academic.qmd >}} -->
+---
 
 
-## Abstract
-
+::: abstract
 Matching has been a popular approach for confounder adjustment because of its transparency and interpretability; however, its application to time series data has been limited due to the complexity of time-varying confounders. Prior work in time series matching, such as risk set matching and PanelMatch, fails to capture the heterogeneity arising from the timing of treatment adoption. In this work, we propose a novel design-based matching framework for causal inference with time series data under staggered adoption. We introduce a sequentially randomized design accounting for the accumulation of time-varying covariates over time, and provide identification results and corresponding estimators for Callaway and Sant’Anna (2020)’s group-time average treatment effect. We establish asymptotic theory and develop a bootstrap procedure for simultaneous inference and tests for homogeneity of causal effects across treatment and outcome timing and event time. Then, we propose the Reverse-Time Nested Matching algorithm, which implements the proposed design in observational time series data. The algorithm is easy to implement using optimal full matching and fully exploits the entire time series, improving upon prior matching approaches in terms of effective sample size and the estimation of heterogeneous effects. Applying the method to real data, we find that while Netflix subscriptions do not significantly affect total IPTV viewing time, they negatively affect video-on-demand usage.
+:::
+
+
+
 
 

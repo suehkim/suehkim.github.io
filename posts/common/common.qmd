@@ -1,0 +1,18 @@
+---
+title: "Identifying common factors in multi-source data"
+subtitle: "*Algorithm for detecting partially joint structures of N ≥ 3 datasets*"
+author: 
+  - name: Suehyun Kim
+date: "2024-05-17"
+categories: [high-dimensional, dimension reduction]
+image: "cosines.png"
+custom-callout:
+  abstract:
+    title: " Abstract"
+    icon: true
+    icon-symbol: "fa-file"
+    color: "#BFC0C0"
+    collapse: true
+filters:
+- custom-callout
+---

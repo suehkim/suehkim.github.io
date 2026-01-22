@@ -5,19 +5,28 @@ author:
   - name: Jaehyuk Jang
   - name: Suehyun Kim (co-first author)
   - name: Kwonsang Lee
-date: "2025-04-03"
+date: "2025-01-05"
 categories: [causal inference, robustness]
 image: "mixing.png"
+custom-callout:
+  abstract:
+    title: " Abstract"
+    icon: true
+    icon-symbol: "fa-file"
+    color: "#BFC0C0"
+    collapse: true
+filters:
+- custom-callout
 ---
 
-<!--Include academic icons or bottons-->
+{{< fa file-lines >}} <span style="margin-left:0.5em;"></span> [arXiv](https://arxiv.org/abs/2411.10801v3) 
+<div style="height:0.5rem;"></div>
+{{< fa window-restore >}} <span style="margin-left:0.3em;"></span>[slides (ACIC 2025)](../../files/ACIC_2025_mixing.pdf) <span style="margin-left:0.5em;"></span> [slides (KSS 2025)](../../files/KSS_2025_mixing.pdf) 
 
-<!-- {{< include /files/includes/_academic.qmd >}} -->
+---
 
 
-## Abstract
-
+::: abstract
 In observational studies, the assumption of sufficient overlap (positivity) is fundamental for the identification and estimation of causal effects. Failing to account for this assumption yields inaccurate and potentially infeasible estimators. To address this issue, we introduce a simple yet novel approach, Mixing, which mitigates overlap violations by constructing a synthetic treated group that combines treated and control units. Our strategy offers three key advantages. First, it improves estimator accuracy by preserving unbiasedness while reducing variance. The benefit is particularly significant in settings with weak overlap, though the method remains effective regardless of the overlap level. This phenomenon results from the shrinkage of propensity scores in the Mixed sample, which enhances robustness to poor overlap. Second, it enables direct estimation of the target estimand without discarding extreme observations or modifying the target population, thus facilitating straightforward interpretation of the results. Third, the mixing approach is highly adaptable to various weighting schemes, including contemporary methods such as Entropy Balancing. The Mixed propensity score is used to develop the Mixed IPW (MIPW) estimator via M-estimation, and the method extends to a broader class of weighting estimators through a resampling algorithm. We illustrate the mixing approach through extensive simulation studies and provide practical guidance with a real-data analysis.
-
-
+:::
 

@@ -1,0 +1,29 @@
+---
+title: "Application of Functional Clustering Methods to Climate Data"
+subtitle: "*Data-driven climate classification of Korea and Japan*"
+author: 
+  - name: Suehyun Kim
+date: "2023-08-29"
+categories: [functional data, functional clustering, FPCA]
+image: "map_FunFEM_5.png"
+custom-callout:
+  abstract:
+    title: " Abstract"
+    icon: true
+    icon-symbol: "fa-file"
+    color: "#BFC0C0"
+    collapse: true
+filters:
+- custom-callout
+---
+
+{{< fa window-restore >}} <span style="margin-left:0.5em;"></span> [slides](../../files/project_fc.pdf)
+
+---
+
+
+::: {.figure}
+![](FunFEM.png){width=90% fig-align="center"}
+:::
+
+Annual climate curves naturally exhibit the characteristics of functional data. Building on this perspective, this study analyzes region-specific annual climatological temperature data from South Korea and Japan using functional clustering techniques. We apply algorithms specifically developed for functional data, along with functional principal component analysis (FPCA), and compare their results to those obtained from conventional clustering methods. Through such a comparison, the study provides a data-driven classification of regional climate patterns, offering an objective alternative to traditional climate classification approaches.

@@ -1,0 +1,30 @@
+---
+title: "Understanding young stellar cluster formation in the Triangulum Galaxy (M33) through point process models"
+# subtitle: "*Spatial Statistics (M1399.000300) Final Project*"
+author: 
+  - name: Suehyun Kim
+date: "2024-12-17"
+categories: [spatiotemporal, point process, astrophysics]
+image: "spatial.png"
+custom-callout:
+  abstract:
+    title: " Abstract"
+    icon: true
+    icon-symbol: "fa-file"
+    color: "#BFC0C0"
+    collapse: true
+filters:
+- custom-callout
+---
+
+
+{{< fa file-lines >}} <span style="margin-left:0.5em;"></span> [report](../../files/project_m33.pdf)
+
+---
+
+::: {.figure}
+![](gmc_yscc.png){width=90% fig-align="center"}
+:::
+
+
+Star formation in galaxies has long been a fundamental topic in astrophysics. While it is widely believed that the high-density environments produced by Giant Molecular Clouds (GMCs) play a key role in the formation of new stars, the underlying mechanisms are not yet fully understood. This project examines the relationship between Giant Molecular Clouds and Young Stellar Cluster Candidates (YSCCs) using point process models that capture spatial nonstationarity. In particular, we apply variable selection within the inhomogeneous Poisson process and the Neyman–Scott process to characterize and quantify this relationship.

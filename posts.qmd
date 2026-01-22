@@ -5,6 +5,7 @@ title: "Projects"
 listing: 
   type: default
   page-size: 5
+  sort: "date desc"
   categories: false
   sort-ui: false
   filter-ui: true
@@ -13,7 +14,7 @@ listing:
   contents: 
       - posts
       # - posts/post-links.yml  # Use this file to add external links
-  fields: [title, subtitle, categories, image]
+  fields: [title, subtitle, categories, image, date]
 
 # format: 
 #   html: 

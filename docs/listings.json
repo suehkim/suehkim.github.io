@@ -3,7 +3,10 @@
     "listing": "/posts.html",
     "items": [
       "/posts/rtnm/rtnm.html",
-      "/posts/overlap/overlap.html"
+      "/posts/overlap/overlap.html",
+      "/posts/m33/m33.html",
+      "/posts/common/common.html",
+      "/posts/fc/fc.html"
     ]
   }
 ]

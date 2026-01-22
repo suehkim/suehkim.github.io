@@ -386,6 +386,18 @@ h2 {
   height: 0.1rem;
 }
 
+/* Adjust title (header) font size */
 .quarto-title-block h1.title {
   font-size: 2rem !important;
+}
+
+/* Custom callout style */
+.callout.callout-custom {
+  border-left: 6px solid lighten($primary, 50%);
+  background-color: $primary-light;
+}
+
+.callout.callout-custom .callout-title {
+  color: $primary;
+  font-weight: 600;
 }

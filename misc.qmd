@@ -7,14 +7,6 @@ page-layout: article
 
 A list of my past coursework can be found [here](misc/coursework.qmd).
 
-## Selected Projects
-
-1. **Understanding Young Stellar Cluster Formation in the Triangulum Galaxy (M33) through Point Process Models**    [[paper]](files/project_m33.pdf)  
-    *Final project for Spatial Statistics (M1399.000300, Fall 2024)*   
-
-2. **Application of Functional Clustering Methods to Climate Data** [[slides]](files/project_fc.pdf)    
-    *Individual project during undergraduate research internship at the Data Science & Machine Learning Lab (Summer 2023)*   
-
 ## Paper Reviews
 
 Paper and book chapter reviews from the regular seminar of the Causal Inference Lab.
