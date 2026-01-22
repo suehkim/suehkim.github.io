@@ -401,3 +401,13 @@ h2 {
   color: $primary;
   font-weight: 600;
 }
+
+/* First icon (calendar) */
+.quarto-footer-right .footer-item:nth-child(1) {
+  color:$primary-light; /* gray */
+}
+
+/* Text item (Last updated) */
+.quarto-footer-right .footer-item:nth-child(2) {
+  color: $primary-light /* same gray */
+}

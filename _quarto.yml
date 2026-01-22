@@ -31,10 +31,14 @@ website:
   page-footer: 
     left: "Suehyun Kim &copy; <script>document.write(new Date().getFullYear())</script> Built on [Quarto Academic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io)" 
     center: ""
-    right:  
-      - icon: rss
-        href: posts.xml
-        target: _blank  
+    right:
+    - icon: calendar
+    - text: '<span style="margin-left:0.5em;"></span> Last updated: January 22, 2026 <span style="margin-left:0.5em;"></span>' 
+    - icon: rss
+      href: posts.xml
+      target: _blank
+    
+
   
   search:
     location: navbar
@@ -72,6 +76,7 @@ website:
 
 format: 
   html:
+    # date: today
     theme:
       light:
         - cosmo
