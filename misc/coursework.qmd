@@ -1,8 +1,7 @@
 ---
+title: "Selected coursework"
 page-layout: article
 ---
-
-# Selected coursework
 
 ## Mathematics
 

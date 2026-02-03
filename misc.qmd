@@ -11,6 +11,11 @@ A list of my past coursework can be found [here](misc/coursework.qmd).
 
 Paper and book chapter reviews from the regular seminar of the Causal Inference Lab.
 
+- **A nonparametric framework for treatment effect modifier discovery in high dimensions**    
+  Boileau, P., Leng. N., Hejazi, N. S., van der Laan, M., & Dudoit, S. (2025). *JRSSB*          
+  [paper review slides](files/paperreview_boileau.pdf) ·
+  [original paper](https://doi.org/10.1093/jrsssb/qkae084)
+
 - **Causal inference on distribution functions**    
     Lin, Z., Kong, D., & Wang, L. (2023). *JRSSB*          
   [paper review slides](files/paperreview_lin.pdf) ·
