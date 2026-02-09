@@ -13,8 +13,8 @@ page-layout: article
   [[arXiv]](https://arxiv.org/abs/2411.10801v3)    <div style="height: 0.4rem;"></div>
     - *Nonparametric Inference in the Age of AI (Workshop)*, Department of Statistics, Seoul National University, Feb 2025. 
     - *European Causal Inference Meeting (EuroCIM)*, Ghent, Belgium, April 2025. Oral presentation.
-    - *American Causal Inference Conference (ACIC)*, Detroit, Michigan, May 2025. Oral presentation. [[slides]](/attachments/ACIC_2025_mixing.pdf)
-    - *Korean Statistical Society Summer Conference*, Gyeongju, Korea, June 2025. [[slides]](/attachments/KSS_2025_mixing.pdf)
+    - *American Causal Inference Conference (ACIC)*, Detroit, Michigan, May 2025. Oral presentation. [[slides]](/files/ACIC_2025_mixing.pdf)
+    - *Korean Statistical Society Summer Conference*, Gyeongju, Korea, June 2025. [[slides]](/files/KSS_2025_mixing.pdf)
 
 ::: {.spacer}
 :::
