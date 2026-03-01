@@ -18,7 +18,7 @@
     "href": "misc.html#paper-reviews",
     "title": "Miscellaneous",
     "section": "Paper Reviews",
-    "text": "Paper Reviews\nPaper and book chapter reviews from the regular seminar of the Causal Inference Lab.\n\nA nonparametric framework for treatment effect modifier discovery in high dimensions\nBoileau, P., Leng. N., Hejazi, N. S., van der Laan, M., & Dudoit, S. (2025). JRSSB\npaper review slides · original paper\nCausal inference on distribution functions\nLin, Z., Kong, D., & Wang, L. (2023). JRSSB\npaper review slides · original paper\nTransfer learning between U.S. presidential elections: How should we learn from a 2020 ad campaign to inform 2024 ad campaigns?\nMiao, X., Zhao, J., & Kang, H. (2024). arXiv preprint\npaper review slides · original paper\nCovariate-adaptive randomization inference in matched designs\nPimentel, S. D., & Huang, Y. (2024). JRSSB\npaper review slides · original paper\nFinding influential subjects in a network using a causal framework\nLee, Y., Buchanan, A. L., Ogburn, E. L., Friedman, S. R., Halloran, M. E., Katenka, N. V., Wu, J., & Nikolopoulos, G. K. (2023). Biometrics\npaper review slides · original paper\nHigh-dimensional statistics: A non-asymptotic viewpoint\nWainwright, M. J. (2019).\nbook review slides · original book"
+    "text": "Paper Reviews\nPaper and book chapter reviews from the regular seminar of the Causal Inference Lab.\n\nHigh-dimensional statistics: A non-asymptotic viewpoint\nWainwright, M. J. (2019).\nch2-ch4 · original book\nA nonparametric framework for treatment effect modifier discovery in high dimensions\nBoileau, P., Leng. N., Hejazi, N. S., van der Laan, M., & Dudoit, S. (2025). JRSSB\npaper review slides · original paper\nCausal inference on distribution functions\nLin, Z., Kong, D., & Wang, L. (2023). JRSSB\npaper review slides · original paper\nTransfer learning between U.S. presidential elections: How should we learn from a 2020 ad campaign to inform 2024 ad campaigns?\nMiao, X., Zhao, J., & Kang, H. (2024). arXiv preprint\npaper review slides · original paper\nCovariate-adaptive randomization inference in matched designs\nPimentel, S. D., & Huang, Y. (2024). JRSSB\npaper review slides · original paper\nFinding influential subjects in a network using a causal framework\nLee, Y., Buchanan, A. L., Ogburn, E. L., Friedman, S. R., Halloran, M. E., Katenka, N. V., Wu, J., & Nikolopoulos, G. K. (2023). Biometrics\npaper review slides · original paper"
   },
   {
     "objectID": "posts.html",
@@ -32,7 +32,7 @@
     "href": "index.html",
     "title": "Suehyun Kim",
     "section": "",
-    "text": "Hi, I’m Suehyun Kim (김수현).\nI am a master’s student in Statistics at Seoul National University, working under the supervision of Professor Kwonsang Lee. My current research focuses on causal inference, exploring both its theoretical aspects and practical applications. My specific interests encompass, but are not limited to, the following topics:\n\nRobust estimation of causal effects.\nCausal inference in complex datasets: non-iid, non-Euclidean, high dimensional.\nGeneralizability and transportability.\n\nMore broadly, I am interested in topics that are meaningful in their own right or can be integrated with causal approaches, including:\n\nGeneralizability of statistical algorithms, inference under distributional shifts, transfer learning, meta-learning.\nOptimal transport theory and its applications.\n\nI completed my undergraduate studies in Mathematical Sciences and Statistics at Seoul National University, where I developed a strong foundation in mathematical theory and gained early research experience.\nIf you have any questions or opportunities for collaboration, please don’t hesitate to reach out: suehyunkim@snu.ac.kr"
+    "text": "Hi, I’m Suehyun Kim (김수현).\nI am a master’s student in Statistics at Seoul National University, working under the supervision of Professor Kwonsang Lee. My current research focuses on causal inference, exploring both its theoretical aspects and practical applications. My specific interests encompass, but are not limited to, the following topics:\n\nRobust estimation of causal effects.\nCausal inference in complex datasets: non-iid, non-Euclidean, high dimensional.\nGeneralizability and transportability.\n\nMore broadly, I am interested in topics that are meaningful in their own right or can be integrated with causal approaches, including:\n\nGeneralizability of statistical algorithms, inference under distributional shifts, transfer learning, meta-learning.\nOptimal transport theory and its applications.\n\nI completed my undergraduate studies in Mathematical Sciences and Statistics at Seoul National University, where I developed a strong foundation in mathematical theory and gained early research experience.\nIf you have any questions or opportunities for collaboration, please don’t hesitate to reach out: suehyunkim at snu dot ac dot kr"
   },
   {
     "objectID": "posts/overlap/overlap.html",
@@ -74,7 +74,7 @@
     "href": "misc/coursework.html#statistics",
     "title": "Selected coursework",
     "section": "Statistics",
-    "text": "Statistics\n\nGraduate level\n\nProbability Theory I, II\nTheory of Statistics I\nApplied Statistics\nCausal Inference\nTheory of Deep Learning: Statistical Perspective\nSpatial Statistics\n\n\n\nUndergraduate level\n\nMathematical Statistics I, II\nRegression Analysis\nConcepts and Applications in Probability\nStatistical Computing\nMultivariate Data Analysis\nBayesian Statistics\nNonparametric Statistics\nTime Series Analysis\nData Mining Methods"
+    "text": "Statistics\n\nGraduate level\n\nProbability Theory I, II\nTheory of Statistics I\nApplied Statistics\nCausal Inference\nStatistical Machine Learning\nTheory of Deep Learning: Statistical Perspective\nSpatial Statistics\n\n\n\nUndergraduate level\n\nMathematical Statistics I, II\nRegression Analysis\nConcepts and Applications in Probability\nStatistical Computing\nMultivariate Data Analysis\nBayesian Statistics\nNonparametric Statistics\nTime Series Analysis\nData Mining Methods"
   },
   {
     "objectID": "posts/m33/m33.html",
@@ -88,7 +88,7 @@
     "href": "publications.html",
     "title": "Publications / Talks",
     "section": "",
-    "text": "*: Equally contributing co-authors\n\n\nMixing Samples to Address Weak Overlap in Observational Studies\nJaehyuk Jang*, Suehyun Kim*, Kwonsang Lee. Submitted.\n[arXiv]\n\n\n\n\nNonparametric Inference in the Age of AI (Workshop), Department of Statistics, Seoul National University, Feb 2025.\nEuropean Causal Inference Meeting (EuroCIM), Ghent, Belgium, April 2025. Oral presentation.\nAmerican Causal Inference Conference (ACIC), Detroit, Michigan, May 2025. Oral presentation. [slides]\nKorean Statistical Society Summer Conference, Gyeongju, Korea, June 2025. [slides]\n\n\n\n\n\n\nA Design-Based Matching Framework for Staggered Adoption with Time-Varying Confounding\nSuehyun Kim and Kwonsang Lee. Preprint.\n\n\n\n\nKorean Statistical Society Winter Conference, Seoul, Korea, December 2025. Poster presentation."
+    "text": "*: Equally contributing co-authors\n\n\nMixing Samples to Address Weak Overlap in Observational Studies\nJaehyuk Jang*, Suehyun Kim*, Kwonsang Lee. Submitted.\n[arXiv]\n\n\n\n\nNonparametric Inference in the Age of AI (Workshop), Department of Statistics, Seoul National University, Feb 2025.\nEuropean Causal Inference Meeting (EuroCIM), Ghent, Belgium, April 2025. Oral presentation.\nAmerican Causal Inference Conference (ACIC), Detroit, Michigan, May 2025. Oral presentation. [slides]\nKorean Statistical Society Summer Conference, Gyeongju, Korea, June 2025. [slides]\n\n\n\n\n\n\nA Design-Based Matching Framework for Staggered Adoption with Time-Varying Confounding\nSuehyun Kim and Kwonsang Lee. Preprint.\n\n\n\n\nKorean Statistical Society Winter Conference, Seoul, Korea, December 2025.\nEuropean Causal Inference Meeting (EuroCIM), Oxford, United Kingdom, April 2026. Oral presentation."
   },
   {
     "objectID": "cv.html",
@@ -102,7 +102,7 @@
     "href": "cv.html#education",
     "title": "Curriculum Vitae",
     "section": "Education",
-    "text": "Education\n\n\nM.S. in Statistics\nSeoul National University\n2024 – Present\nB.S. in Mathematical Sciences and Statistics\nSeoul National University\n2019 – 2024, Summa Cum Laude"
+    "text": "Education\n\n\nM.S. in Statistics\nSeoul National University\n2024 – 2026 (expected)\nB.S. in Mathematical Sciences and Statistics\nSeoul National University\n2019 – 2024, Summa Cum Laude"
   },
   {
     "objectID": "cv.html#awards-and-honors",
@@ -116,6 +116,6 @@
     "href": "cv.html#teaching",
     "title": "Curriculum Vitae",
     "section": "Teaching",
-    "text": "Teaching\nTeaching experience at Seoul National University\n\nWinter 2024: Freshman Pre-College Course in Statistics, Teaching Assistant\nFall 2024: Data Analysis and Lab (M1399.001400), Teaching Assistant\nSpring 2024: Statistics (F32.102), Peer Tutor"
+    "text": "Teaching\nTeaching experience at Seoul National University\n\nSpring 2026: Regression Analysis and Lab. (326.313), Teaching Assistant\nWinter 2024: Freshman Pre-College Course in Statistics, Teaching Assistant\nFall 2024: Data Analysis and Lab. (M1399.001400), Teaching Assistant\nSpring 2024: Statistics (F32.102), Peer Tutor"
   }
 ]

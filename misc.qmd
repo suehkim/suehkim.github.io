@@ -11,6 +11,11 @@ A list of my past coursework can be found [here](misc/coursework.qmd).
 
 Paper and book chapter reviews from the regular seminar of the Causal Inference Lab.
 
+- **High-dimensional statistics: A non-asymptotic viewpoint**   
+  Wainwright, M. J. (2019).     
+  [ch2-ch4](files/bookreview_HDS.pdf) ·
+  [original book](https://doi.org/10.1017/9781108627771)
+
 - **A nonparametric framework for treatment effect modifier discovery in high dimensions**    
   Boileau, P., Leng. N., Hejazi, N. S., van der Laan, M., & Dudoit, S. (2025). *JRSSB*          
   [paper review slides](files/paperreview_boileau.pdf) ·
@@ -36,8 +41,3 @@ Paper and book chapter reviews from the regular seminar of the Causal Inference 
   Lee, Y., Buchanan, A. L., Ogburn, E. L., Friedman, S. R., Halloran, M. E., Katenka, N. V., Wu, J., & Nikolopoulos, G. K. (2023). *Biometrics*     
   [paper review slides](files/paperreview_lee.pdf) ·
   [original paper](https://doi.org/10.1111/biom.13841)
-
-- **High-dimensional statistics: A non-asymptotic viewpoint**   
-  Wainwright, M. J. (2019).     
-  [book review slides](files/bookreview_HDS.pdf) ·
-  [original book](https://doi.org/10.1017/9781108627771)

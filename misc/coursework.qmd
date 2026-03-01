@@ -31,6 +31,7 @@ page-layout: article
 - Theory of Statistics I
 - Applied Statistics
 - Causal Inference
+- Statistical Machine Learning
 - Theory of Deep Learning: Statistical Perspective
 - Spatial Statistics
 
