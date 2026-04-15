@@ -22,4 +22,4 @@ page-layout: article
 2. **A Design-Based Matching Framework for Staggered Adoption with Time-Varying Confounding**  
     <u>Suehyun Kim</u> and Kwonsang Lee. *Preprint.* <div style="height: 0.4rem;"></div> 
     - *Korean Statistical Society Winter Conference*, Seoul, Korea, December 2025.
-    - *European Causal Inference Meeting (EuroCIM)*, Oxford, United Kingdom, April 2026. *<span style="color: #717c84;">Oral presentation.</span>*
+    - *European Causal Inference Meeting (EuroCIM)*, Oxford, United Kingdom, April 2026. *<span style="color: #717c84;">Oral presentation.</span>* [[slides]](/files/EuroCIM_2026_rtnm.pdf)

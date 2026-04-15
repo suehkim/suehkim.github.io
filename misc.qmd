@@ -13,7 +13,7 @@ Paper and book chapter reviews from the regular seminar of the Causal Inference 
 
 - **High-dimensional statistics: A non-asymptotic viewpoint**   
   Wainwright, M. J. (2019).     
-  [ch2-ch4](files/bookreview_HDS.pdf) ·
+  [ch2--ch4](files/bookreview_HDS.pdf) ·
   [original book](https://doi.org/10.1017/9781108627771)
 
 - **A nonparametric framework for treatment effect modifier discovery in high dimensions**    

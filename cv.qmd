@@ -10,11 +10,11 @@ For my comprehensive CV, click [here](files/CV_SuehyunKim.pdf).
 ::: {.bulleted-mortarboard}
 - **M.S. in Statistics**    
     Seoul National University   
-    *2024 – 2026 (expected)*  
+    *2024–2026 (expected)*  
     
 - **B.S. in Mathematical Sciences and Statistics**    
   Seoul National University   
-  *2019 – 2024*, *Summa Cum Laude*  
+  *2019–2024*, *Summa Cum Laude*  
 :::
 
 ## Awards and Honors

@@ -20,7 +20,7 @@ filters:
 
 {{< fa file-lines >}} <span style="margin-left:0.5em;"></span> [arXiv](https://arxiv.org/abs/2511.23208) 
 <div style="height:0.5rem;"></div>
-{{< fa window-restore >}} <span style="margin-left:0.3em;"></span>[poster (KSS 2025)](../../files/KSS_2025_rtnm.pdf)
+{{< fa window-restore >}} <span style="margin-left:0.3em;"></span>[poster (KSS 2025)](../../files/KSS_2025_rtnm.pdf) <span style="margin-left:0.5em;"></span> [slides (EuroCIM 2026)](../../files/EuroCIM_2026_rtnm.pdf) 
 
 ---
 
