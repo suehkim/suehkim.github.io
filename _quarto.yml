@@ -33,7 +33,7 @@ website:
     center: ""
     right:
     - icon: calendar
-    - text: '<span style="margin-left:0.5em;"></span> Last updated: April 15, 2026 <span style="margin-left:0.5em;"></span>' 
+    - text: '<span style="margin-left:0.5em;"></span> Last updated: April 29, 2026 <span style="margin-left:0.5em;"></span>' 
     - icon: rss
       href: posts.xml
       target: _blank
