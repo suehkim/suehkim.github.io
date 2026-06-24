@@ -4,21 +4,21 @@
     "href": "misc.html",
     "title": "Miscellaneous",
     "section": "",
-    "text": "A list of my past coursework can be found here."
-  },
-  {
-    "objectID": "misc.html#coursework",
-    "href": "misc.html#coursework",
-    "title": "Miscellaneous",
-    "section": "",
-    "text": "A list of my past coursework can be found here."
+    "text": "Paper and book chapter reviews from the regular seminar of the Causal Inference Lab.\n\nHigh-dimensional statistics: A non-asymptotic viewpoint\nWainwright, M. J. (2019).\nch2–ch4 · ch15 · original book\nA nonparametric framework for treatment effect modifier discovery in high dimensions\nBoileau, P., Leng. N., Hejazi, N. S., van der Laan, M., & Dudoit, S. (2025). JRSSB\npaper review slides · original paper\nCausal inference on distribution functions\nLin, Z., Kong, D., & Wang, L. (2023). JRSSB\npaper review slides · original paper\nTransfer learning between U.S. presidential elections: How should we learn from a 2020 ad campaign to inform 2024 ad campaigns?\nMiao, X., Zhao, J., & Kang, H. (2024). arXiv preprint\npaper review slides · original paper\nCovariate-adaptive randomization inference in matched designs\nPimentel, S. D., & Huang, Y. (2024). JRSSB\npaper review slides · original paper\nFinding influential subjects in a network using a causal framework\nLee, Y., Buchanan, A. L., Ogburn, E. L., Friedman, S. R., Halloran, M. E., Katenka, N. V., Wu, J., & Nikolopoulos, G. K. (2023). Biometrics\npaper review slides · original paper"
   },
   {
     "objectID": "misc.html#paper-reviews",
     "href": "misc.html#paper-reviews",
     "title": "Miscellaneous",
-    "section": "Paper Reviews",
-    "text": "Paper Reviews\nPaper and book chapter reviews from the regular seminar of the Causal Inference Lab.\n\nHigh-dimensional statistics: A non-asymptotic viewpoint\nWainwright, M. J. (2019).\nch2–ch4 · ch15 · original book\nA nonparametric framework for treatment effect modifier discovery in high dimensions\nBoileau, P., Leng. N., Hejazi, N. S., van der Laan, M., & Dudoit, S. (2025). JRSSB\npaper review slides · original paper\nCausal inference on distribution functions\nLin, Z., Kong, D., & Wang, L. (2023). JRSSB\npaper review slides · original paper\nTransfer learning between U.S. presidential elections: How should we learn from a 2020 ad campaign to inform 2024 ad campaigns?\nMiao, X., Zhao, J., & Kang, H. (2024). arXiv preprint\npaper review slides · original paper\nCovariate-adaptive randomization inference in matched designs\nPimentel, S. D., & Huang, Y. (2024). JRSSB\npaper review slides · original paper\nFinding influential subjects in a network using a causal framework\nLee, Y., Buchanan, A. L., Ogburn, E. L., Friedman, S. R., Halloran, M. E., Katenka, N. V., Wu, J., & Nikolopoulos, G. K. (2023). Biometrics\npaper review slides · original paper"
+    "section": "",
+    "text": "Paper and book chapter reviews from the regular seminar of the Causal Inference Lab.\n\nHigh-dimensional statistics: A non-asymptotic viewpoint\nWainwright, M. J. (2019).\nch2–ch4 · ch15 · original book\nA nonparametric framework for treatment effect modifier discovery in high dimensions\nBoileau, P., Leng. N., Hejazi, N. S., van der Laan, M., & Dudoit, S. (2025). JRSSB\npaper review slides · original paper\nCausal inference on distribution functions\nLin, Z., Kong, D., & Wang, L. (2023). JRSSB\npaper review slides · original paper\nTransfer learning between U.S. presidential elections: How should we learn from a 2020 ad campaign to inform 2024 ad campaigns?\nMiao, X., Zhao, J., & Kang, H. (2024). arXiv preprint\npaper review slides · original paper\nCovariate-adaptive randomization inference in matched designs\nPimentel, S. D., & Huang, Y. (2024). JRSSB\npaper review slides · original paper\nFinding influential subjects in a network using a causal framework\nLee, Y., Buchanan, A. L., Ogburn, E. L., Friedman, S. R., Halloran, M. E., Katenka, N. V., Wu, J., & Nikolopoulos, G. K. (2023). Biometrics\npaper review slides · original paper"
+  },
+  {
+    "objectID": "misc.html#coursework",
+    "href": "misc.html#coursework",
+    "title": "Miscellaneous",
+    "section": "Coursework",
+    "text": "Coursework\nA list of my past coursework can be found here."
   },
   {
     "objectID": "posts.html",
@@ -109,7 +109,7 @@
     "href": "cv.html#awards-and-honors",
     "title": "Curriculum Vitae",
     "section": "Awards and Honors",
-    "text": "Awards and Honors\n\nAlumni Association President’s Award (서울대학교 총동창회장상), Seoul National University, August 2024\nKwanjeong Scholarship, Kwanjeong Educational Foundation, 2021–2023\nGLEAP (Official Honor Society of SNU College of Natural Sciences), 2020–2021\nMerit-Based Scholarship, Seoul National University, 2019–2020\nDean’s List, SNU College of Natural Sciences, 2019–2024"
+    "text": "Awards and Honors\n\nKFAS Overseas PhD Scholarship, Korea Foundation for Advanced Studies, 2026–2031\nAlumni Association President’s Award (서울대학교 총동창회장상), Seoul National University, August 2024\nKwanjeong Scholarship, Kwanjeong Educational Foundation, 2021–2023\nGLEAP (Official Honor Society of SNU College of Natural Sciences), 2020–2021\nMerit-Based Scholarship, Seoul National University, 2019–2020\nDean’s List, SNU College of Natural Sciences, 2019–2024"
   },
   {
     "objectID": "cv.html#teaching",

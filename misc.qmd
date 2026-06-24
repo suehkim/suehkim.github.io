@@ -3,10 +3,6 @@ title: Miscellaneous
 page-layout: article
 ---
 
-## Coursework
-
-A list of my past coursework can be found [here](misc/coursework.qmd).
-
 ## Paper Reviews
 
 Paper and book chapter reviews from the regular seminar of the Causal Inference Lab.
@@ -42,3 +38,8 @@ Paper and book chapter reviews from the regular seminar of the Causal Inference 
   Lee, Y., Buchanan, A. L., Ogburn, E. L., Friedman, S. R., Halloran, M. E., Katenka, N. V., Wu, J., & Nikolopoulos, G. K. (2023). *Biometrics*     
   [paper review slides](files/paperreview_lee.pdf) ·
   [original paper](https://doi.org/10.1111/biom.13841)
+
+
+## Coursework
+
+A list of my past coursework can be found [here](misc/coursework.qmd).
